@@ -1,0 +1,997 @@
+,nom de l'entreprise,adresse
+0,Groupama D Amberieu En Bugey,centre commercial Dame Louise
+1,Groupama de Bâgé-le-Châtel,"14, Rue Marsale"
+2,Groupama - Agence Belley,21 Bis Boulevard Du Mail
+3,Groupama de Bourg en Bresse,"6, avenue Du Champ De Foire"
+4,Groupama - Agence - Brégnier-Cordon,104 Rue Espace Du Haut Rhone
+5,Groupama De Ferney Voltaire,"11, Grande Rue"
+6,Groupama De Gex,Avenue de la poste
+7,Groupama - Agence  Hauteville Lompnes,Place Des Martyrs
+8,Groupama De Lagnieu,"14, rue Du Port"
+9,Groupama - Agence St Just En Chevalet,Rue De Thiers
+10,Groupama De Marboz,"38, Rue des Fleurs"
+11,Groupama De Meximieux,"7, place Vaugelas"
+12,Groupama De Montluel,"262, Grande Rue"
+13,Groupama de Bohain,"20, rue Francis De Pressence"
+14,Groupama de Château-Thierry,"1, avenue De La République"
+15,Groupama de Chauny,"19, avenue Victor Hugo"
+16,Groupama de Fère-en-Tardenois,"10, rue Moreau Nelaton"
+17,Groupama de Guignicourt,"29, avenue Du Général De Gaulle"
+18,Groupama de Guise,"163, rue Camille Desmoulins"
+19,Groupama Hirson,"13, bis rue Charles De Gaulle"
+20,Groupama de Laon,"14, rue Jean Martin"
+21,Groupama Mesnil En Ouche,"19, rue De L'Eglise"
+22,Groupama - Agence De Montcornet,7 Rue De La Gare
+23,Groupama de Saint-Quentin,"4, rue Victor Basch"
+24,Groupama de Soissons,"4, avenue De Reims"
+25,Groupama de Vervins,"4, place de L'Eglise"
+26,Groupama de Villers-Cotterêts,"18, place Du Docteur Mouflier"
+27,Groupama De Bourbon L Archambault,"7, rue De La République"
+28,Groupama - Agence Chevagnes,1 Rue Des Ecoles
+29,Groupama De Commentry,"4, rue Jean-Jacques Rousseau"
+30,Groupama De Cusset,place De La République
+31,Groupama De Dompierre Sur Besbre,"31, rue Nationale"
+32,Groupama De Gannat,"72, Grande Rue"
+33,Groupama De Huriel,"1, place De La Toque"
+34,Groupama De Lapalisse,"12, rue Winston Churchill"
+35,Groupama - Agence Donjon,31 Place De La Republique
+36,Groupama Le Mayet De Montagne,"1, avenue De La Libération"
+37,Groupama - Agence  Lurcy-levis,64 Boulevard Gambetta
+38,Groupama - Agence Barcelonnette,11 Rue Manuel
+39,Groupama Château Arnoux,"2, allée Des Érables"
+40,Groupama Digne Les Bains,"38, boulevard Gassendi"
+41,Groupama Forcalquier,"10, place Du Bourguet"
+42,Groupama Manosque,"304, a avenue De La Libération"
+43,Groupama Oraison,"1, bis avenue Charles Richaud"
+44,Groupama Riez,"2, place Maxime Javelly"
+45,Groupama Saint André Les Alpes,avenue De La Gare
+46,Groupama - Agence Seyne Les Alpes,Place D?Armes
+47,Groupama Sisteron,"32, avenue Jean Moulin"
+48,Groupama Briancon,"11, rue Centrale"
+49,Groupama - Agence Embrun,19 Place Dongois
+50,Groupama Gap,12-14 avenue Jean Jaures
+51,Groupama Guillestre,place Du Général Albert
+52,Groupama l'Argentière la Bessée,Bât. les Ribes
+53,Groupama - Agence Laragne,Avenue De Provence - Bât Lestérel
+54,Groupama De Saint Benin D Azy,place De La Gaieté
+55,Groupama Saint Bonnet en Champsaur,"11, place Grenette"
+56,Groupama - Agence Serres,3 Place De La Liberte
+57,Groupama Antibes,"8, Boulevard Gustave Chancel"
+58,Groupama Breil sur Roya,"45, rue Pasteur"
+59,Groupama Cagnes Sur Mer,"5, boulevard Marechal Juin"
+60,Groupama Contes,"3, Rue Louis Anfosso"
+61,Groupama Grasse,"12, boulevard Du Jeu De Ballon"
+62,Groupama - Agence Vic En Bigorre,4 Boulevard De Lorraine
+63,Groupama Le Cannet,19-20 boulevard Gambetta
+64,Groupama Mandelieu,"601, avenue De Fréjus"
+65,Groupama Menton,"3, rue Prato"
+66,Groupama - Agence Nice Gambetta,15 Au 17 Boulevard Gambetta
+67,Groupama Aubenas,"57, boulevard Maréchal Leclerc"
+68,Groupama Bourg St Andeol,"1, avenue Marc Pradelle"
+69,Groupama - Agence Coucouron,Rue De La Ruralité
+70,Groupama Annonay-Davézieux,"931, route De Lyon"
+71,Groupama - Agence La Voulte,1 Rue Boissy D Anglas
+72,Groupama Lalevade,place Du 14 Juillet
+73,Groupama - Agence Lamastre,2 Place Seignobos
+74,Groupama - Agence Le Cheylard,2 Rue Du 5 Juillet 1944
+75,Groupama - Agence Le Pouzin,6 Avenue Jean-claude Dupau
+76,Groupama Le Teil,"1, place Semard"
+77,Groupama - Agence Les Vans,Place Henri Thibon
+78,Groupama de Carignan,"28, rue Hablot"
+79,Groupama de Charleville-Mézières - J. Jaurès,"6, avenue Jean Jaurès"
+80,Groupama - Agence De Givet,25 Rue Mehul
+81,Groupama de Sedan,"37, avenue Du Maréchal Leclerc"
+82,Groupama - Agence De Vouziers,10 Place Carnot
+83,Groupama Foix,"29, cours Gabriel Fauré"
+84,Groupama Lavelanet,"33, rue Jean Jaurès"
+85,Groupama Lezat sur leze,"12, avenue De La République"
+86,Groupama Mirepoix,"11, cours Louis Pons Tand"
+87,Groupama - Agence St Girons,25 Bis Avenue Daulot
+88,Groupama St Jean Du Falga,"7, avenue Des Pyrénées"
+89,Groupama Saverdun,"29, Grand Rue"
+90,Groupama Aix-en-Othe,"4, rue Des Vannes"
+91,Groupama d'Arcis sur Aube,"29, rue De Paris"
+92,Groupama - Bar-sur-Aube,24-26 Rue Nationale
+93,Groupama - Bar-sur-Seine,40 Bis Rue Victor Hugo
+94,Groupama - Brienne-le-Château,73 Rue De Lecole Militaire
+95,Groupama Lezignan Gaujac,"1, rue De L'Alaric"
+96,Groupama De Neuville,"1, rue De La République"
+97,Groupama de Nogent-sur-Seine,"4, rue De L'Arbalète"
+98,Groupama de Romilly-sur-Seine,"26, place Des Martyrs"
+99,Groupama de Saint-André-les-Vergers,"49, avenue Du Maréchal Leclerc"
+100,Groupama Troyes Europe,"4, rond point De L'Europe"
+101,Groupama Alzonne,"26, avenue Antoine Courriere"
+102,Groupama Bram,"36, avenue General De Gaulle"
+103,Groupama Carcassonne Barbès,"79, boulevard Barbès"
+104,Groupama Carcassonne Pont Rouge,rue Vasco De Gama
+105,Groupama Castelnaudary République,"7, cours De La Republique"
+106,Groupama - Agence Cahors - Cruscades,117 Rue St Gery
+107,Groupama Cuxac D'Aude,"14, boulevard Jean Jaurès"
+108,Groupama - Agence Durban Corbieres,2 Chemin De Rouire
+109,Groupama La Redorte,"7, avenue Du Minervois"
+110,Groupama - Agence Leucate,2 Avenue Francis Vals
+111,Groupama Baraqueville,"273, avenue du Centre"
+112,Groupama Bozouls,"9, allée Paul Causse"
+113,Groupama Capdenac Gare,"32, rue De La République"
+114,Agence Groupama - Cassagnes-Bégonhès,14 avenue De Lodève
+115,Groupama Saint Cyprien,"25, route Du Moulin"
+116,Groupama - Agence Decazeville,1 Place Wilson
+117,Groupama - Accueil Durenque,Place De La Fontaine
+118,Groupama - Bureau Entraygues,22 Tour De Ville
+119,Groupama - Agence Espalion,10 Boulevard Joseph Poulenc
+120,Groupama La Fouillade,"7, rue du Levant"
+121,Groupama - Agence La Salvetat Peyrales,10 Rue De La Douve
+122,Groupama - Bureau Laguiole,Immeuble Les Cayres Centre Commercial
+123,Groupama Aix Mirabeau,"23, cours Mirabeau"
+124,Groupama Aix Sextius,avenue Max Juvenal
+125,Groupama Groupama Méditerranée - Centre de gestion Aix en Provence,"24, Parc du Golf"
+126,Groupama Arles,Allée Colonel Arnaud Beltrame
+127,Groupama Aubagne,"17, avenue Des Goums"
+128,Groupama Chateaurenard,"3, boulevard Gambetta"
+129,Groupama Gardanne,"20, cours Forbin"
+130,Groupama Istres,"29, boulevard De La République"
+131,Groupama Lambesc,"24, rue Grande"
+132,Groupama Marseille Vieux-Port,"4, place Du Général De Gaulle"
+133,Groupama Marseille Prado Castellane,"57, avenue Du Prado"
+134,Groupama Argences,"4, Boulevard Delean"
+135,Groupama Bayeux,"8, rue Alain Chartier"
+136,Groupama Caen Beaulieu,"14, boulevard Georges Pompidou"
+137,Groupama Caen Vendeuvre,"38, quai Vendeuvre"
+138,Groupama Conde En Normandie,"22, rue Du Vieux Chateau"
+139,Groupama Douvres,"22, place Georges Lesage"
+140,Groupama - Agence Dozule,124 Grande Rue
+141,Groupama Falaise,"4, rue De La Fresnaye"
+142,Groupama Fleury Sur Orne,"2, rue Quadrant"
+143,Groupama Isigny Sur Mer,"23, place General De Gaulle"
+144,Groupama - Agence Allanche,Grande Rue
+145,Groupama Arpajon,"7, avenue Du Général Leclerc"
+146,Groupama Aurillac,"11, avenue Gambetta"
+147,Groupama Bonnefon,avenue Jean De Bonnefon
+148,Groupama - Agence Chaudes Aigues - Chaudes-Aigues,20 Place Du Marche
+149,Groupama - Agence Condat,Place De Leglise
+150,Groupama Jussac,"2, avenue de la Cère"
+151,Groupama - Agence Laroquebrou,1 Rue de La Tremoliere
+152,Groupama - Agence Le Rouget,6 Place De La Mairie
+153,Groupama - Agence Massiac,Rue Neuve
+154,Groupama - Agence Mauriac,Avenue Fernand Talandier
+155,Groupama - Agence Aigre,"31 R Grand ,rue"
+156,Groupama Angouleme Saint Antoine,"18, rue Saint Antoine"
+157,Groupama - Agence Baignes Ste Radegonde - Baignes-Sainte-Radegonde,Rue Du General De Gaulle
+158,Groupama - Agence Barbezieux - Barbezieux-Saint-Hilaire,23 R Rampe Des Mobiles
+159,Groupama - Agence Chalais,24 Avenue De La Gare
+160,Groupama Cognac,rue De L'Anisserie
+161,Groupama Châteauneuf,"9, zone artisanale De L'Etang"
+162,Groupama Confolens,"4, rue Emile Roux"
+163,Groupama Jarnac,"29, rue Condé"
+164,Groupama La Couronne,"5, rue Victor Hugo"
+165,Groupama La Rochefoucauld,45-47 rue Des Halles
+166,Groupama - Agence Ruffec,29 Avenue Du Général Leclerc
+167,Groupama St Claude,"17, rue Du Pré"
+168,Groupama Angouleme Soyaux,64-66 rue Du Général De Gaulle
+169,Groupama Archiac,"30, rue Agrippa D'Aubigne"
+170,Groupama - Agence Aulnay,15 Place Aristide Briand
+171,Groupama Chatelaillon,"55, avenue De La Libération"
+172,Groupama Courcon,7-9 Grande Rue
+173,Groupama Cozes,"9, place Des Halles"
+174,Groupama Dolus,"155, route De St Pierre Oléron Rd734"
+175,Groupama Gemozac,"3, rue Carnot"
+176,Groupama - Agence Jonzac,29 Avenue Monseigneur Chauvin
+177,Groupama La Rochelle,"140, boulevard Joffre"
+178,Groupama La Rochelle St Yon,"48, rue St Yon"
+179,Groupama La Tremblade,"23, bis rue Foran"
+180,Groupama Marennes,"65, rue De La République"
+181,Groupama Matha,"1, avenue De La Ferme Des Godinières"
+182,Groupama - Agence - Aubigny-sur-Nère,14 Place Adrien Arnoux
+183,Groupama  - Agence  Baugy,26 Rue Sully
+184,Groupama - Agence - Blancafort,2 Rue Raymond Valet
+185,Groupama - Agence  St Doulchard - Bourges,104 Route D?orleans
+186,Groupama De Bourges,"28, bis Rue Moyenne"
+187,Groupama De Chateaumeillant,place Du Docteur Guyot
+188,Groupama De Dun Sur Auron,place De La Libération
+189,Groupama - Agence  Henrichemont,Place Henri IV
+190,Groupama La Guerche Sur L Aubois,"28, rue Henri Barbusse"
+191,Groupama - Agence Les Aix D Angillon,26 Rue De La Republique
+192,Groupama - Agence Allassac,Avenue Jean Cariven
+193,Groupama - Agence Argentat,1bis Avenue Henri IV
+194,Groupama - Agence Beaulieu - Beaulieu-sur-Dordogne,37 Avenue General De Gaulle
+195,Groupama Beynat,rue de L'Eglise
+196,Groupama - Bort-les-Orgues,64 Rue De Paris
+197,Agence Groupama Brignac la Plaine - Brignac-la-Plaine,Le Bourg
+198,Groupama - Agence Brive-la-Gaillarde,Rue Saint Andre
+199,Groupama Brive,"72, boulevard Koenig"
+200,Groupama - Bureau Chamboulive,Place Du Cimetiere
+201,Agence Groupama Corrèze/St Augustin,rue Principale
+202,Groupama Donzenac,place Léon Madrias
+203,Groupama Ajaccio,route D'Alata
+204,Groupama - Agence Aleria - Aléria,120 Via Santa Laurina
+205,Groupama Bastia,"605, avenue De La Libération"
+206,Groupama - Agence Corte,30 Cours Paoli
+207,Groupama - Agence Ile Rousse,Avenue Joseph Calizi
+208,Groupama Folelli,Espace CASINCA
+209,Groupama Porto Vecchio,rue Vincentellu D'Istria
+210,Groupama Sartene,avenue Hyacinthe Quilichini
+211,Groupama - Agence Aignay-Le-Duc,Rue De La Planchotte
+212,Groupama Arnay Le Duc,"14, rue Saint Honoré"
+213,Groupama Auxonne,"11, rue Thiers"
+214,Groupama Beaune,"4, rue Edouard Fraysse"
+215,Groupama Boulogne Sur Gesse,rue De L'Eglise
+216,Groupama - Châtillon-sur-Seine,3 Rue Gustave Tridon
+217,Groupama Dijon Grangier,"3, place Grangier"
+218,Groupama Garage - Centre de Gestion DIJON,"30, Boulevard de Champagne"
+219,Groupama Genlis,"9, avenue De La Gare"
+220,Groupama Gevrey Chambertin,"33, Rue des Baraques"
+221,Groupama - Agence Is Sur Tille,36 Rue Dominique Ancemot
+222,Groupama Begard,"6, Rue Louis Harel de la Noë"
+223,Groupama Bourbriac,23 Pl Du Centre
+224,Groupama - Agence Broons,11 Pl Duguesclin
+225,Groupama Callac,7 R Du Docteur Quere
+226,Groupama Caulnes,1 R De La Gare
+227,Groupama - Châtelaudren,20 Pl De La Republique
+228,Groupama Corlay,3 Pl Sidonie Carriere
+229,Groupama Dinan,"16, rue Des Rouairies"
+230,Groupama - Agence Etables Sur Mer,Chemin Du Heurtault
+231,Groupama - Agence Gouarec,Place Du Calvaire
+232,Groupama - Agence Ahun,Place Couderc
+233,Groupama - Agence Aubusson,65 Grande Rue
+234,Groupama - Agence Auzances,2 Rue Saint-jacques
+235,Groupama - Bureau Azerables,36 Rue Grande
+236,Groupama Benevent,"28, avenue De La Marche"
+237,Groupama Bonnat,"6, place de la Fontaine"
+238,Groupama - Agence Bourganeuf,8 Place De L?Hotel De Ville
+239,Groupama - Bureau Boussac,19 Bis Avenue Pierre Leroux
+240,Groupama - Châtelus-Malvaleix,8 Place St Pierre
+241,Agence Groupama - Chénérailles,17 Grande Rue
+242,Groupama Beaumont,place Jean Moulin
+243,Groupama - Agence - Belvès,10 Rue Manchotte
+244,Groupama Bergerac,"70, rue Clairat"
+245,Groupama Boulazac,zone artisanale Du Ponteix
+246,Groupama Brantome,"38, rue Victor Hugo"
+247,Groupama - Agence - Cénac-et-Saint-Julien,Grand Rue
+248,Groupama - Agence Excideuil,15 Rue Gambetta
+249,Groupama Eymet,"25, rue Du Temple"
+250,Groupama - Agence La Coquille,5 Place St Jacques De Compostelle
+251,Groupama - Agence Le Bugue,Avenue De La Liberation
+252,Groupama Marsac Sur L'Isle,avenue Louis Suder Saltgourde
+253,Groupama Audincourt,"27, avenue Aristide Briand"
+254,Groupama - Agence - Baume-les-Dames,15 Rue Felix Bougeot
+255,Groupama Besancon Chaprais,"63, rue De Belfort"
+256,Groupama Besancon St Ferjeux,"77, rue De Dole"
+257,Groupama Frasne,"15, avenue Des Marronniers"
+258,Groupama Isle Sur Le Doubs,"16, rue Du Magny"
+259,Groupama Les Hôpitaux Neufs,"27, route De Lausanne"
+260,Groupama Levier,"3, place Bugnet"
+261,Groupama Longueville Sur Scie,"13, rue Guynemer"
+262,Groupama - Agence Maiche,5 Place Du Champ De Foire
+263,Groupama Montbeliard,"13, rue Saint-Hippolyte"
+264,Groupama - Agence Morteau,27 Rue De L Helvetie
+265,Groupama - Agence Anneyron,13 Place Rambaud
+266,Groupama - Beaumont-lès-Valence,2 Allee Des Pins
+267,Groupama - Agence - Buis-les-Baronnies,1 Boulevard Aristide Briand
+268,Groupama Chabeuil,avenue De Valence
+269,Groupama - Châtillon-en-Diois,45 Rue De La Gare
+270,Groupama Cléon D'Andran,"11, place Du Commerce"
+271,Groupama - Agence Crest,Rue Aristide Dumont
+272,Groupama - Agence Die,9 Place Du Marche
+273,Groupama - Agence Dieulefit,3 Place Chateauras
+274,Groupama - Agence Etoile Sur Rhone,9 Place De La Republique
+275,Groupama Bernay,"1, rue Du Pont De L Etang"
+276,Groupama - Agence Beuzeville,1 Place De La Republique
+277,Groupama Bourg Achard,"430, Grande Rue"
+278,Groupama Bourgtheroulde,"67, Grande Rue"
+279,Groupama Brionne,"4, rue Lemarrois"
+280,Groupama Conches En Ouche,"48, place Carnot"
+281,Groupama Evreux Grenoble,"13, rue De Grenoble"
+282,Groupama Fleury Sur Andelle,"25, rue Pouyer Quertier"
+283,Groupama Vexin Sur Epte,"12, Grande Rue"
+284,Groupama Gaillon,"12, avenue Du Maréchal Leclerc"
+285,Groupama Gisors,"2, rue Cappeville"
+286,Groupama Auneau,"48, place Du Marché"
+287,Groupama Bonneval,"1, place Leroux"
+288,Groupama Brou,"21, rue Des Changes"
+289,Groupama Chartres Ville,"28, rue De La Tonnellerie"
+290,Groupama Siège Social Centre Manche,"10, Rue Blaise Pascal"
+291,Groupama Chateaudun,"20, place Du 18 Octobre"
+292,Groupama Chateauneuf,"1, Boulevard Jean Jaurès"
+293,Groupama Courville Sur Eure,"48, rue Pannard"
+294,Groupama Dreux,"36, rue Parisis"
+295,Groupama - Agence Janville,2 Rue Du Bois Du Loup
+296,Groupama Audierne Le Cap,"4, B place De La Republique"
+297,Groupama Bannalec,"20, rue Nationale"
+298,Groupama Brest Lambezellec,"13, place Des F F I"
+299,Groupama Brest Siam,"80, rue De Siam"
+300,Groupama Brest Strasbourg,"18, place De Strasbourg"
+301,Groupama - Agence Briec,Grand Place
+302,Groupama Carantec,"23, rue Albert Louppe"
+303,Groupama - Châteaulin,48 B Qu Du Gal De Gaulle
+304,Groupama - Châteauneuf-du-Faou,14 B R Du Gal De Gaulle
+305,Groupama Concarneau,"79, avenue Alain Le Lay"
+306,Groupama Aigues Mortes,"1121, route de Nîmes"
+307,Groupama Alès,"1655, chemin De Tréspeaux"
+308,Groupama Anduze,"1, rue Neuve"
+309,Groupama Bagnols Sur Ceze,"22, Rue Ernest Euzeby"
+310,Groupama Beaucaire,"65, allée Sergius Respectus"
+311,Groupama Bouillargues,"25, Grand Rue"
+312,Groupama Genolhac,"2, rue Aimé Crégut"
+313,Groupama La Calmette,"13, avenue Général De Gaulle"
+314,Groupama Laudun,"18, place De La Fontaine"
+315,Groupama - Agence Le Vigan,8 Rue Sous Le Quai
+316,Groupama Les Angles,"30, rue Di Cardelino"
+317,Groupama Marguerittes,"32, avenue Ferdinand Perthus"
+318,Groupama Aspet,place De La République
+319,Groupama Aucamville,"101, bis route De Fronton"
+320,Groupama - Agence Aurignac,Avenue De Boulogne
+321,Groupama Auterive,"2, rue Etienne Billières"
+322,Groupama - Bureau Montauban Luchon - Bagnères-de-Luchon,45 Rue Gambetta
+323,Groupama Balma,"9, avenue Pierre Coupeau"
+324,Groupama - Bureau - Bessières,42 Avenue Du Pont
+325,Groupama Blagnac,rue Carrière
+326,Groupama - Boulogne-sur-Gesse,Rue De L Eglise
+327,Groupama - Bureau Cadours,18 Rue De La Mairie
+328,Groupama - Bureau Caraman,17 Cours Pasteur
+329,Groupama - Agence Aignan,8 Place Colonel Parisot
+330,Groupama - Bureau Aubiet,9 Route D?Auch
+331,Groupama Auch,"21, avenue De La Marne"
+332,Groupama - Bureau Cazaubon,17 Bis Rue De Gascogne
+333,Groupama - Agence Condom,40 Boulevard De La Liberation
+334,Groupama - Agence Eauze,4 Rue Bistouquet
+335,Groupama Fleurance,"9, place De La République"
+336,Groupama Gimont,"28, boulevard Du Nord"
+337,Groupama - Bureau Gondrin,72 Avenue Jean Moulin
+338,Groupama L'Isle Jourdain,"2, boulevard Armand Praviel"
+339,Groupama Lectoure,"100, rue Nationale"
+340,Groupama - Bureau Marciac,31 Place De L?Hotel De Ville
+341,Groupama Ares,"7, avenue De Bordeaux"
+342,Groupama - Agence Bazas,21 Bis Cour Du General De Gaulle
+343,Groupama Biganos,"19, route Des Lacs"
+344,Groupama Blanquefort,"2, rue Raymond Valet"
+345,Groupama - Agence Blaye,13 Cour Du Mal De Lattre De Tassigny
+346,Groupama Bordeaux Cours Portal,42-44 cours Portal
+347,Groupama Bordeaux Meriadek,"45, rue Georges Bonnac"
+348,Groupama Cadaujac,"938, avenue De Toulouse"
+349,Groupama - Agence Cadillac,10 Rue Du General De Gaulle
+350,Groupama Carbon Blanc,"38, avenue Austin Conte"
+351,Groupama - Agence - Castelnau-de-Médoc,2 Place Romain Videau
+352,Groupama Agde,"2, rue Grand Cap"
+353,Groupama Baillargues,"22, rue De La République"
+354,Groupama - Agence - Bédarieux,8 Rue De La Republique
+355,Groupama Béziers,"45, bis avenue Voie Domitienne"
+356,Groupama Capestang,"1, rue Augustin Gau"
+357,Groupama Castries,"1, avenue Du 8 Mai 1945"
+358,Groupama Cazouls Les Beziers,"32, avenue Jean Jaurès"
+359,Groupama Clapiers,"1, plan Willy Brandt"
+360,Groupama - Agence - Clermont-l'Hérault,5 Rue Du Servent - ZAE Les Tannes Basses
+361,Groupama Frontignan,"1, boulevard Gambetta"
+362,Groupama Argentre Du Plessis,"8, rue Alain D Argentre"
+363,Groupama - Agence - Bain-de-Bretagne,12 Pl De La Republique
+364,Groupama - Bédée,1 Pl De L Eglise
+365,Groupama Betton,"14, avenue D'Armorique"
+366,Groupama Bruz,1 Place du Docteur Joly
+367,Groupama Cesson Sevigne,"11, mail De Bourgchevreuil"
+368,Groupama Chantepie,"85, avenue Andre Bonnin"
+369,Groupama Chateaubourg,"17, rue Du Marechal Leclerc"
+370,Groupama - Châteaugiron,1 Rue Francis Guerault
+371,Groupama Chateauneuf D Ille Et Vilaine,"19, rue Du Pave St Charles"
+372,Groupama - Agence Aigurande,4 Rue De La Marche
+373,Groupama Ardentes,"5, rue De La République"
+374,Groupama - Agence Argenton Sur Creuse - Argenton-sur-Creuse,1 Rue Gambetta
+375,Groupama Buzancais,"1, place De La Libération"
+376,Groupama Chabris,"14, rue Du Pont"
+377,Groupama Châteauroux Gare,"44, rue De La Gare"
+378,Groupama - Châtillon-sur-Indre,Pl Du Marche
+379,Groupama Deols,"5, route D'Issoudun"
+380,Agence Groupama Ecueille,2 avenue De La Gare
+381,Groupama Issoudun,"3, boulevard Pierre Favreau"
+382,Groupama Amboise,"7, rue Voltaire"
+383,Agence Groupama Azay Le Rideau - Azay-le-Rideau,14 rue Carnot
+384,Groupama Blere,"12, rue Jean Jacques Rousseau"
+385,Agence Groupama Chinon,38 quai Jeanne D'Arc
+386,Groupama Descartes,"18, rue Du Commerce"
+387,Groupama Joue Les Tours,"11, avenue Victor Hugo"
+388,Groupama Montbazon,"1, rue Nationale"
+389,Groupama Montlouis,allée Des Ralluères
+390,Agence Groupama Neuille Pont Pierre,2 avenue De La Libération
+391,Agence Groupama Preuilly Sur Claise,17 Grande Rue
+392,Groupama Saint-Cyr Sur Loire,"99, boulevard Charles De Gaulle"
+393,Agence Groupama Sainte Maure,57 avenue Du Général De Gaulle
+394,Groupama Tours Beranger,"10, boulevard Beranger"
+395,Groupama Vouvray (sur RDV uniquement),"9, rue République"
+396,Groupama De Bourgoin,"14, place Saint-Michel"
+397,Groupama De Cremieu,"1, Rue Porcherie"
+398,Groupama De Crolles,"1876, rue De Belledonne"
+399,Groupama De Domene,"8, rue Jean Jaures"
+400,Groupama - Agence  St Germain Du Plain,2 Route Du Bourg
+401,Groupama - Agence Grenoble Republique,15 Rue De La Republique
+402,Groupama Grenoble Joffre,"18, boulevard Maréchal Joffre"
+403,Groupama D Heyrieux,"2, Avenue de la République"
+404,Groupama - Agence De La Mure,16 Avenue Du Docteur Tagnard
+405,Groupama De La Verpillière,"636, rue De La République"
+406,Groupama - Agence Le Bourg-d'Oisans,39 Rue Du General De Gaulle
+407,Groupama - Agence Arbois,56 Grande Rue
+408,Groupama Bletterans,"80, rue Louis Le Grand"
+409,Groupama - Agence Champagnole,16 Avenue De La Republique
+410,Groupama Chaussin,"3, bis rue De L'Hôtel De Ville"
+411,Groupama Dole,"9, avenue De La Paix"
+412,Groupama Vihiers,"2, et 6 rue David D Angers"
+413,Groupama Lons Le Saunier,"40, cours Sully"
+414,Groupama Morez,"143, rue De La République"
+415,Groupama Orgelet,chemin Des Perrières
+416,Groupama Poligny,"18, rue Du Général Travot"
+417,Groupama - Agence St Amour,3 Bd Georges Clemenceau
+418,Groupama - Agence St Claude,17 Rue Du Pré
+419,Groupama - Agence Salins Les Bains,82 Rue De La République
+420,Groupama Biscarrosse,"246, avenue Alphonse Daudet"
+421,Agence Groupama Brocas,30 place Robert Bezos
+422,Groupama Capbreton,"20, boulevard Des Cigales"
+423,Groupama - Agence Gabarret,9 Route De Creon
+424,Groupama - Bureau Geaune,Place De L?Hotel De Ville
+425,Groupama Grenade Sur Adour,"30, rue René Vielle"
+426,Groupama - Agence Hagetmau,60 Rue Carnot
+427,Groupama Hinx,"23, route De Dax"
+428,Groupama Labouheyre,"44, rue Marc Mougnères"
+429,Groupama - Agence Leon,130 Grand Rue
+430,Groupama Blois,"1, avenue De Vendome"
+431,Groupama Bracieux,"6, place De La Halle"
+432,Groupama Droue,"20, bis place De La République"
+433,Groupama Herbault,"3, rue Du Bailli"
+434,Groupama Mondoubleau,8-10 place Du Marché
+435,Groupama Montoire,"39, place Clémenceau"
+436,Groupama Montrichard,"35, rue Nationale"
+437,Groupama Neung Sur Beuvron,"12, rue 11 Novembre"
+438,Groupama Oucques,2-4 place Du Château
+439,Groupama Ouzouer Verdes,"2, place De L'Eglise"
+440,Groupama De Boen,"5, place De L'Hôtel De Ville"
+441,Groupama De Bourg Argental,"9, place De La Cité"
+442,Groupama De Charlieu,"1, rue Du Pont De Pierre"
+443,Groupama De Chavanay,"22, Grande Rue"
+444,Groupama - Agence - Chazelles-sur-Lyon,14 Place Poterne
+445,Groupama De Feurs,"4, rue Philibert Mottin"
+446,Groupama De Firminy,"2, rue Benoit Frachon"
+447,Groupama - Agence  La Pacaudiere,61 Route De Lyon
+448,Groupama De La Talaudiere,"49, rue De La République"
+449,Groupama Du Coteau,"59, avenue De La Libération"
+450,Groupama - Agence  Brioude,58 Boulevard Vercingetorix
+451,Groupama - Craponne-sur-Arzon,36 Faubourg Constant
+452,Groupama - Agence  Dunieres,7 Rue Saint Martin
+453,Groupama - Agence De Langeac,14 Place Aristide Briand
+454,Groupama De Monastier/Laussonne,"41, rue St Pierre"
+455,Groupama Du Puy,"24, place Du Breuil"
+456,Groupama - Agence  Monistrol Sur Loire,2 Avenue De La Liberation
+457,Groupama - Agence  Paulhaguet,Rue General Pissis
+458,Groupama De St Didier En Velay,place Foch
+459,Groupama De St Julien Chapteuil,"6, place St Robert"
+460,Groupama De St Paulien,"30, avenue Du Ruessium"
+461,Groupama - Agence Saugues,1 Rue Espeisse
+462,Groupama - Agence  Tence,4 Route Dannonay
+463,Groupama De Vorey,Rue Louis Jouvet
+464,Groupama - Agence Yssingeaux,5 Place De La Calade
+465,Groupama Aigrefeuille - Aigrefeuille-sur-Maine,1 R Des Merisiers
+466,Groupama - Agence Ancenis,Centre Commercial Des Arcades
+467,Groupama Basse Goulaine,"7, place De La Chantrie"
+468,Groupama Batz Sur Mer,"19, rue Du 19 Mars 1962"
+469,Groupama Blain,3 B R Schoelcher
+470,Groupama Bouaye,"43, rue De Nantes"
+471,Groupama Carquefou,"19, rue Marquis De Dion"
+472,Groupama Chateaubriant,"5, B place St Nicolas"
+473,Groupama Clisson,17 Pl St Jacques
+474,Groupama Derval,"24, rue De Rennes"
+475,Agence Groupama Artenay,16 mail Nord
+476,Agence Groupama Beaugency,36 place Du Martroi
+477,Groupama Beaune La Rolande,"1, place Du Marché"
+478,Groupama Briare,"2, place De La République"
+479,Groupama Châteaurenard,"62, place Du Château"
+480,Agence Groupama - Châteauneuf-sur-Loire,36-38 Grande Rue
+481,Groupama Chatillon Coligny,place Coligny
+482,Groupama Courtenay,"8, place Honoré Combe"
+483,Groupama Fleury les Aubrais,"154, rue Marcelin Berthelot"
+484,Groupama Gien,"4, avenue B Marechal Leclerc"
+485,Agence Groupama Jargeau,25 boulevard Carnot
+486,Groupama Lorris,"35, Grande Rue"
+487,Groupama Bagnac,"7, avenue Du Quercy"
+488,Groupama Cahors,"117, rue St Géry"
+489,Groupama - Agence Cajarc,65 Boulevard Du Tour De Ville
+490,Groupama Castelnau Montratier,"36, rue Clémenceau"
+491,Agence Groupama De Cours La Ville,19 rue Georges Clémenceau
+492,Groupama Figeac,"1, place Aux Herbes"
+493,Groupama - Agence Gourdon,22 Avenue Gambetta
+494,Groupama - Agence Gramat,5 Place De La Republique
+495,Groupama Lacapelle Marival,Grand Rue
+496,Groupama Lalbenque,"102, Place de la Bascule"
+497,Groupama Agen,235 avenue du Général Leclerc
+498,Groupama Casteljaloux,"9, place Gambetta"
+499,Groupama Marmande,"4, avenue François Mitterrand"
+500,Groupama Miramont,"32, rue Du Temple"
+501,Groupama Montayral,zone artisanale Du Haut Agenais
+502,Groupama Nerac,"14, cours Romas"
+503,Groupama Tonneins,"37, rue Gambetta"
+504,Groupama Villeneuve,"6, boulevard De La République"
+505,Groupama Villereal,"12, rue Des Martyrs De La Résistance"
+506,Groupama - Agence Onet - Chambon-le-Château,19 Place Des Artistes
+507,Groupama Florac,"68, avenue Jean Monestier"
+508,Groupama - Agence Grandrieu,Place St Michel
+509,Groupama La Canourgue,avenue Des Gorges-Du-Tarn
+510,Groupama - Agence Langogne,12 Avenue Marechal Foch
+511,Groupama Marvejols,"3, boulevard De Chambrun"
+512,Groupama Mende,"1, boulevard Lucien Arnault"
+513,Groupama - Agence St Chely,Place Foirail
+514,Groupama Allonnes,"117, rue Albert Pottier"
+515,Groupama Angers Foch,"11, boulevard Foch"
+516,Groupama Angers Grand Maine,"2, allée Du Grand Launay"
+517,Groupama Angers La Fayette,"16, place La Fayette"
+518,Groupama Angers St Lazare,"4, rue Saint Lazare"
+519,Groupama Avrille,"199, avenue Mendes France"
+520,Groupama Bauge,"47, place Du Marche"
+521,Groupama - Beaufort-en-Vallée,7 Pl Jeanne De Laval
+522,Groupama - Beaupréau,1 R Du Marechal Foch
+523,Groupama - Agence - Bécon-les-Granits,2 Bis Rue De Cande
+524,Groupama Brissac - Brissac-Quincé,8 Pl Des Freres Montgolfier
+525,Groupama Avranches,"15, rue Du Général De Gaulle"
+526,Agence Groupama La Hague - Beaumont-Hague,1 résidence De La Houllegatte
+527,Groupama Brecey,"37, place De L'Hôtel De Ville"
+528,Groupama Brehal,"12, rue Eisenhower"
+529,Groupama Bricquebec,"4, rue Paul Philippe"
+530,Groupama - Agence Carentan,2 Rue Torteron
+531,Groupama Cherbourg,"32, boulevard Robert Schuman"
+532,Groupama - Agence - Cherbourg-Octeville,32 Boulevard Robert Schuman
+533,Groupama Coutances,"10, rue Tourville"
+534,Groupama Granville,"79, rue Couraye"
+535,Groupama Villedieu Les Poeles,"2, rue De La Hervière"
+536,Groupama de Châlons-en-Champagne,"5, rue Du Gantelet"
+537,Groupama - Agence Challes Les Eaux - Clesles,Avenue L. Domenget
+538,Groupama de Dormans,"23, rue Jean De Dormans"
+539,Groupama Epernay,"10, place Léon Bourgeois"
+540,Groupama Reims Farman,"2, rue Léon Patoux"
+541,Groupama Reims Lundy,"5, Boulevard Lundy"
+542,Groupama - Agence De Ste Menehould,2 Place Du General Leclerc
+543,Groupama de Sézanne,"42, place De La République"
+544,Groupama de Vertus,"22, rue De Chalons"
+545,Groupama de Vitry-le-François,"40, place D'Armes"
+546,Groupama - Agence Andelot - Andelot-Blancheville,30 Rue De La Division Leclerc
+547,Groupama - Bourbonne-les-Bains,16 Grande Rue
+548,Groupama - Agence Bourmont,Faubourg De France
+549,Groupama Chaumont,"53, rue Victoire De La Marne"
+550,Groupama - Agence Fayl Billot,Place De La Mairie
+551,Groupama Joinville,"9, rue Du Tour Des Halles"
+552,Groupama - Agence Langres,68 Rue Diderot
+553,Groupama Montier En Der,"7, place Notre Dame"
+554,Groupama Nogent En Bassigny,"9, d rue Des Forges"
+555,Groupama St Dizier,"19, rue Emile Giros"
+556,Groupama - Agence Wassy,8 Rue Général Defrance
+557,Groupama - Agence Ambrieres - Ambrières-les-Vallées,1 Place Du Marché
+558,Groupama Chateau Gontier,rue Terre Rouge
+559,Groupama Laval Technopole,rue Albert Einstein
+560,Groupama Cosse Le Vivien,"6, place Du Marché"
+561,Groupama Craon,"1, promenade Charles De Gaulle"
+562,Groupama - Agence Ernee,2 Allée Hélène Boucher
+563,Groupama Evron,"9, rue De La Fontaine"
+564,Groupama - Agence Fougerolles Plessis,14 Place Du Général De Gaulle
+565,Groupama Gorron,"22, rue De La Mairie"
+566,Groupama Lassay les Châteaux,"4, Grande Rue"
+567,Groupama Audun Le Roman,"2, rue Lucien Michel"
+568,Groupama Baccarat,"14, rue Adrien Michaut"
+569,Groupama Bayon,"2, Grande Rue"
+570,Groupama Jarny,"37, avenue De La République"
+571,Groupama Longuyon,"1, rue De L'Hôtel De Ville"
+572,Groupama Luneville,"12, bis rue Des Templiers"
+573,Groupama Nancy,"20, rue Grand Rabbin Haguenauer"
+574,Groupama Nomeny,"2, route De Pont A Mousson"
+575,Groupama Pont A Mousson,"70, place Duroc"
+576,Groupama St Max,"85, avenue Carnot"
+577,Groupama St Nicolas De Port,"11, place De La République"
+578,Groupama - Agence Thiaucourt,22 Rue Carnot
+579,Groupama Toul,"18, rue Du Docteur Chapuis"
+580,Groupama Vezelise,"11, place De L'Hôtel De Ville"
+581,Groupama De Valserhone,"20, rue De La République"
+582,Groupama Bar Le Duc,"36, boulevard De La Rochelle"
+583,Groupama Commercy,"15, place Charles De Gaulle"
+584,Groupama Etain,"2, place Des Fusillés"
+585,Groupama Revigny Sur Ornain,"24, rue Du Géénéral De Gaulle"
+586,Groupama - Agence St Mihiel,17 Rue Du Général Pershing
+587,Groupama Stenay,"8, bis rue Maginot"
+588,Groupama Verdun,"31, rue Président Poincaré"
+589,Groupama Allaire,"6, rue De La Liberation"
+590,Groupama Auray,"60, rue Georges Clemenceau"
+591,Groupama Baud,22 Pl Le Sciellour
+592,Groupama Belz,"11, rue Des Sports"
+593,Groupama Caudan,"22, rue Du Muguet"
+594,Groupama Elven,4 Pl Du Lurin
+595,Groupama Gourin,26 R Jacques Rodallec
+596,Groupama Grand Champ,"11, place De L Eglise"
+597,Groupama Guemene Sur Scorff,"2, rue Du General De Gaulle"
+598,Groupama Guer,3 Pl De La Gare
+599,Groupama Aumetz,"1, rue Saint Martin"
+600,Groupama - Agence Bitche,9 Rue Teyssier
+601,Groupama Boulay,8D rue du Général Newinger
+602,Groupama - Agence Bouzonville,37 Rue De La Republique
+603,Groupama - Château-Salins,6 Rue Dufays
+604,Groupama - Agence Dieuze,11 Rue Du General De Gaulle
+605,Groupama Faulquemont,"13, rue De Metz"
+606,Groupama Forbach,"1, avenue St Remi"
+607,Groupama Hagondange,"33, rue Voltaire"
+608,Groupama Garage - Centre de Gestion METZ,"4, Rue Graham Bell"
+609,Groupama Metz St Louis,"1, rue Royale"
+610,Groupama St Julien Les Metz,"8, La Tannerie"
+611,Groupama - Château-Chinon (Campagne),5 Rue De Nevers
+612,Groupama - Châtillon-en-Bazois,5 Rue Du Docteur Dubois
+613,Groupama - Agence  Clamecy,14 Rue Du Grand Marche
+614,Groupama  - Agence Corbigny,Route De Marcilly
+615,Groupama De Cosne Sur Loire,"15, rue Saint Jacques"
+616,Groupama - Crux-la-Ville,19 Rue Georges Clemenceau
+617,Groupama - Agence  Decize,17 Place Du Champs De Foire
+618,Groupama De la Charité Sur Loire,"13, bis avenue Gambetta"
+619,Groupama - Agence  Lormes,Rue Paul Barreau
+620,Groupama - Agence De Moulins Engilbert,12 Rue Des Fosses
+621,Groupama Armentières,"71, rue De Dunkerque"
+622,Groupama d'Avesnes-sur-Helpe,"34, avenue De La Gare"
+623,Groupama de Bailleul,"19, rue Du Cassel"
+624,Groupama de Bergues,"5, rue Maurice Cornette"
+625,Groupama Ploubalay,"8, place Nuit Du 6 Aout 1944"
+626,Groupama de Cambrai,"16, avenue De La Victoire"
+627,Groupama,352 place du Barlet
+628,Groupama de Douai,"352, place Du Barlet"
+629,Groupama de Dunkerque,"17, rue De L'Amiral Ronarc'H"
+630,Groupama Hazebrouck,"7, place Du Général De Gaulle"
+631,Groupama Beauvais Desgroux,"16, rue Desgroux"
+632,Groupama Beauvais Gambetta,25-29 rue Gambetta
+633,Agence Groupama Breteuil,8 rue De Paris
+634,Groupama Chambly,"59, place De L'Eglise"
+635,Groupama Chantilly,"2, place Omer Vallon"
+636,Groupama Chaumont En Vexin,"40, rue De La République"
+637,Groupama Clermont,23-25 rue De La République
+638,Groupama Compiègne,"2, place Saint Jacques"
+639,Groupama Creil,"1, place Saint Medard"
+640,Groupama Crepy En Valois,"69, rue Nationale"
+641,Groupama Alencon,109-111 rue D'Argentan
+642,Groupama Alencon Ville,"1, rue St Blaise"
+643,Groupama Argentan,"6, rue Eugène Denis"
+644,Groupama Belleme,"13, rue Boucicault"
+645,Groupama Domfront,"31, Grande Rue"
+646,Groupama Flers,"21, rue Richard Lenoir"
+647,Groupama Gace,"21, Grande Rue"
+648,Groupama - Agence L?Aigle,26 Place St Martin
+649,Groupama La Ferté-Macé,"12, rue D'Hautvie"
+650,Groupama Remalard,ZAC De Saint-Marc
+651,Groupama Sees,"17, place Du Général De Gaulle"
+652,Groupama Vimoutiers,"2, rue Du Moulin"
+653,Groupama Aire-sur-la-Lys,"5, rue Notre Dame"
+654,Groupama Ardres,"24, place Saint Just"
+655,Groupama Arras,"22, boulevard Carnot"
+656,Groupama Avesnes-le-Comte,"41, rue Mitterrand"
+657,Groupama de Bapaume,"3, rue D'Arras"
+658,Groupama de Berck,"41, rue De L'Impératrice"
+659,Groupama de Béthune,"4, boulevard Kitchener"
+660,Groupama de Boulogne-sur-Mer,"10, rue Saint Nicolas"
+661,Groupama de Calais,"62, boulevard Lafayette"
+662,Groupama de Desvres,"7, rue De L'Eglise"
+663,Groupama - Agence  Aigueperse,167 Grande Rue
+664,Groupama - Agence  Ambert,10 Avenue Georges Clemenceau
+665,Groupama  - Agence  Arlanc,140 Route Nationale
+666,Groupama De Besse/St Anastaise,rue Des Ecoles
+667,Groupama De Billom,"3, rue Carnot"
+668,Groupama Asm,"107, Avenue de la République"
+669,Groupama De Clermont-Ferrand,"1, bis avenue Julien"
+670,Groupama De Montferrand,place De La Fontaine
+671,Groupama De Combronde,Rue des Anciens d'Afrique du Nord
+672,Groupama De Cournon,"2, rue Du Commerce"
+673,Groupama Anglet,"51, avenue De Bayonne"
+674,Groupama - Agence Artix,915 Avenue de La Republique
+675,Groupama Arudy,avenue Des Pyrénées
+676,Agence Groupama Bardos,place De L'Eglise
+677,Groupama Bayonne,"3, place Du Réduit"
+678,Groupama - Bureau Bedous,Place Francois Sarraille
+679,Groupama - Bureau Bidache,60 Rue Des Jardins
+680,Groupama - Agence Cambo Les Bains - Cambo-les-Bains,Avenue Despagne
+681,Groupama Gan,"53, place De La Mairie"
+682,Groupama - Bureau Garlin,1 Avenue Des Martyrs Resistance
+683,Groupama Argelès Gazost,"4, avenue Charles De Gaulle"
+684,Groupama - Agence Arreau,1 Quai De La Neste
+685,Groupama Bagnères de Bigorre,"1, rue Alsace Lorraine"
+686,Groupama - Bureau - Castelnau-Magnoac,Rue Du Corps Franc Pommies
+687,Groupama - Agence Lannemezan,Centre Commercial Du Plateau
+688,Groupama Lourdes,"26, avenue Alexandre Marqui"
+689,Groupama - Bureau Maubourguet,60 Allee Larbanes
+690,Groupama - Agence Nyons,14 Avenue Paul Laurens
+691,Groupama - Agence Rabastens Bigorre,9 Rue Du Foirail
+692,Groupama Tarbes,"34, place Du Foirail"
+693,Groupama Tournay,"18, place D'Astarac"
+694,Groupama - Agence Trie Sur Baise,21 Place De La Mairie
+695,Groupama Vic en Bigorre,"4, boulevard De Lorraine"
+696,Groupama Argelès Sur Mer,"22, chemin De Palau Del Vidre"
+697,Groupama - Bourg-Madame,10 Avenue Des Guinguettes
+698,Groupama Canet en Roussillon,3-5 avenue Marco Polo
+699,Groupama - Agence - Céret,2 Avenue Simon Battle
+700,Groupama Elne,cours De L'Europe
+701,Groupama - Agence Font Romeu,64 Avenue Marechal Joffre
+702,Groupama - Agence Ille Sur Tet,104 Avenue Pasteur
+703,Groupama Le Boulou,"60, avenue Général De Gaulle"
+704,Groupama - Agence Millas,50 Avenue Jean Jaures
+705,Groupama Perpignan Clémenceau,"39, boulevard Clémenceau"
+706,Groupama Barr,"2, rue De La Kirneck"
+707,Groupama Benfeld,"3, rue De L'Ancienne Porte"
+708,Groupama Brumath,"10, rue Du Général Duport"
+709,Groupama Diemeringen,"38, Grand'Rue"
+710,Groupama Drusenheim,"52, Rue du Général de Gaulle"
+711,Groupama Erstein,"21, rue Mercière"
+712,Groupama Haguenau,"136, Grand'Rue"
+713,Groupama Hochfelden,"38, rue De Général Lebocq"
+714,Groupama Illkirch,"221, route De Lyon"
+715,Groupama Ingwiller,"61, faubourg Du Général Philippot"
+716,Groupama Lingolsheim,"95, rue Du Maréchal Foch"
+717,Groupama - Agence Altkirch,6a Rue De Givet
+718,Groupama Colmar,"5, avenue De Lattre De Tassigny"
+719,Groupama - Agence Dannemarie,6 Rue De Belfort
+720,Groupama Ensisheim,"24, rue De La 1Ère Armée"
+721,Groupama Guebwiller,"10, rue Théodore Deck"
+722,Groupama Habsheim,"12, rue Du Maréchal Foch"
+723,Groupama Kaysersberg,"51, route De Lapoutroie"
+724,Groupama - Agence Lutterbach,Cite De Lhabitat - Route De Thann
+725,Groupama Masevaux,"9, place Lt. Col. De Gayardon"
+726,Groupama Mulhouse Porte Du Miroir,"21, rue De Zillisheim"
+727,Groupama D Amplepuis,"29, rue Du 8 Mai"
+728,Groupama - Agence De Beaujeu,17 Rue De La Republique
+729,Groupama De Belleville,place Du Pré De La Cloche
+730,Groupama De Brignais,"158, avenue Général De Gaulle"
+731,Groupama - Agence De Beaurepaire - Caluire-et-Cuire,17 Place Des Terreaux
+732,Groupama De Caluire,"17, rue Jean Moulin"
+733,Groupama de Condrieu,"10, rue Jean Peyret"
+734,Groupama - Agence  Bonneville,30 Rue Du Carroz
+735,Groupama De Genas,"31, rue De La République"
+736,Groupama De Givors,"3, rue Jean Ligonnet"
+737,Groupama De L Arbresle,"53, rue Charles De Gaulle"
+738,Groupama - Dampierre-sur-Salon,1 Rue Pasteur
+739,Groupama - Agence Gray,5-7 Avenue Carnot
+740,Groupama - Agence Gy,1 Grande Rue
+741,Groupama Hericourt,"9, avenue Jean Jaurès"
+742,Groupama Jussey,"14, avenue Victor Hugo"
+743,Groupama Lure,"52, avenue De La République"
+744,Groupama Luxeuil,"5, rue Jeanneney"
+745,Groupama - Agence Marnay,28 Place De L Hotel De Ville
+746,Groupama - Agence Melisey,20 Rue Du Moulin
+747,Groupama Rioz,"52, rue Du Général De Gaulle"
+748,Groupama - Agence St Loup Sur Semouse,14 Place De Léglise
+749,Groupama Vesoul,"3, place De La République"
+750,Groupama D Autun,"15, rue Général Demetz"
+751,Groupama - Bourbon-Lancy,18 Avenue General De Gaulle
+752,Groupama De Buxy,"8, Grande Rue"
+753,Groupama De Chagny,"3, rue De La République"
+754,Groupama Chalon,"13, boulevard De La République"
+755,Groupama - Agence De Charolles,2 Rue Baudinot
+756,Groupama  - Agence  Chauffailles,2 Place De L?hotel De Ville
+757,Groupama - Agence  Cluny,4 Place Du Commerce
+758,Groupama De Creches,route Nationale 6
+759,Groupama - Agence  Digoin,11 Rue Bartoli
+760,Groupama De Etang Sur Arroux,"16, rue De La Réplublique"
+761,Groupama De Givry,Boulevard de Verdun
+762,Groupama - Beaumont-sur-Sarthe,Place De La Libération
+763,Groupama - Agence Bonnetable - Bonnétable,8 Rue Du Maréchal Leclerc
+764,Groupama - Agence Bouloire,74 Rue Nationale
+765,Groupama - Agence Conlie,Place Des Halles
+766,Groupama - Agence - Connerré,8 Bis Place De La République
+767,Groupama Coulaines,"36, bis rue Rabelais"
+768,Groupama - Agence Ecommoy,35 Route Du Mans
+769,Groupama de Fresnay sur sarthe,"68, Grande Rue"
+770,Groupama La Ferte Bernard,Le Grand Mail
+771,Groupama La Fleche,"10, rue Carnot"
+772,Groupama La Suze Sur Sarthe,"7, place Du Marché"
+773,Groupama Le Lude,"4, place F De Nicolay"
+774,Groupama Le Mans (Les Maillets),"117, rue Des Maillets"
+775,Groupama - Agence Aime,9 Rue De La Poste
+776,Groupama D Aix Les Bains,"7, place Georges Clémenceau"
+777,Groupama  - Agence  Albens,20 Rue Rene Cassin
+778,Groupama D Albertville,"38, place De L Europe"
+779,Groupama De Beaufort,"35, place Du Château De Randens"
+780,Agence Groupama De Bourg-Saint-Maurice,102 Rue Desserteaux
+781,Groupama - Agence  Bozel,97 Avenue Jean Jaures
+782,Groupama De Challes Les Eaux,avenue L. Domenget
+783,Groupama Chambery Grand Verger,"209, avenue Du Grand Verger"
+784,Groupama Chambery Méridien,"1, place Du Centenaire"
+785,Groupama De Chindrieux,parc Du Sapenay
+786,Groupama De Frontenex,"2, rue Joseph Pillet"
+787,Groupama - Agence  Abondance,Immeuble Les Andins
+788,Groupama De Alby Sur Cheran,"5, place Du Pont Neuf"
+789,Groupama  - Agence  Lyon - Annecy,8 Place Ambroise Courtois
+790,Groupama  - Agence  St Etienne Bellevue - Annecy,5 Place Bellevue
+791,Groupama D Annecy Nord,"59, avenue De Genève"
+792,Groupama D Annecy Parmelan,"38, avenue Parmelan"
+793,Groupama D Annecy Seynod,"37, avenue Du Champ Fleuri"
+794,Groupama D Annemasse,"4, rue Alfred Bastin"
+795,Groupama De Boege,"223, rue De La Vallée Verte"
+796,Groupama De Bonneville,"30, rue Du Carroz"
+797,Groupama Paris Gobelins,"21, avenue Des Gobelins"
+798,Groupama Paris Magenta,"114, boulevard Magenta"
+799,Groupama Paris Bastille,"93, avenue Ledru Rollin"
+800,Groupama Paris Daumesnil,"41, boulevard De Reuilly"
+801,Groupama Paris Alesia,"8, avenue Jean Moulin"
+802,Groupama Paris Lecourbe,"72, rue Lecourbe"
+803,Groupama Paris Lmp,"58, avenue De La Motte Picquet"
+804,Groupama Paris Carnot,"21, avenue Carnot"
+805,Groupama Paris Clichy,"3, avenue De Clichy"
+806,Groupama Paris Ordener,"137, rue Ordener"
+807,Groupama Paris Pyrénées,"264, rue des Pyrénées"
+808,Groupama - Agence Aumale,7 Rue De Birmandeis
+809,Groupama Bihorel,"204, route De Neufchatel"
+810,Groupama Bois Guillaume,chemin De La Breteque Cite De L' Agriculture
+811,Groupama - Agence - Bosc-le-Hard,Rue Du Bras Dor
+812,Groupama - Agence Buchy,126 Grande Rue
+813,Groupama Cany,"94, rue du Général de Gaulle"
+814,Groupama Criquetot L Esneval,place Georges Chedru
+815,Groupama Dieppe,"2, place Nationale"
+816,Groupama Doudeville,"24, rue Pierre Lamotte"
+817,Groupama Duclair,"351, place Du General De Gaulle"
+818,Groupama Elbeuf,"28, rue Des Martyrs"
+819,Groupama Brie Comte Robert,"4, rue Gambetta"
+820,Groupama Coulommiers,"28, rue Du Docteur Arbeltier"
+821,Groupama La Ferte Gaucher,"12, place Du Général De Gaulle"
+822,Groupama La Ferte Sous Jouarre,"11, place De L'Hôtel De Ville"
+823,Groupama Lagny,"14, place De La Fontaine"
+824,Groupama Meaux,"3, cours Raoult"
+825,Groupama Melun,"5, place De La Porte De Paris"
+826,Groupama Montereau Fault Yonne,"32, rue Jean Jaurès"
+827,Groupama Moret Sur Loing,"11, Grande Rue"
+828,Groupama Nangis,"11, rue Du Dauphin"
+829,Groupama Nemours,"8, place Jean Jaurès"
+830,Groupama Provins,"7, rue Abelard"
+831,Groupama Rozay,"17, rue De Rome"
+832,Groupama Houilles,"17, rue Gabriel Péri"
+833,Groupama Mantes République,"4, avenue De La République"
+834,Groupama Meulan,"8, place Brigitte Gros"
+835,Groupama Montfort L'Amaury,"4, place De La Libération"
+836,Groupama Rambouillet,"8, rue Chasles"
+837,Groupama Saint Germain En Laye,"35, rue De Pologne"
+838,Groupama Versailles,"96, rue De La Paroisse"
+839,Groupama Airvault,"2, faubourg Des Cyprès"
+840,Groupama St Maixent,La Pièce Du Chêne
+841,Groupama Niort-Mude,Zone commerciale Forum Sud
+842,Groupama Bressuire,"10, rue De L'Espace - Avenue Youri Gagarine"
+843,Groupama - Agence Brioux Chize - Brioux-sur-Boutonne,102 Rue Du Commerce
+844,Groupama Cerizay,place Du Chêne Vert
+845,Groupama Coulonges sur L'Autize,"7, rue De Fontenay"
+846,Groupama Mauleon,"4, Rue Cardinal de Sourdis"
+847,Groupama Moncoutant,"52, avenue De Paris"
+848,Groupama Niort,"2, avenue De Limoges"
+849,Groupama Abbeville,"47, rue Du Maréchal Foch"
+850,Agence Groupama - Ailly-sur-Noye,8 rue Du Docteur Binant
+851,Groupama Ailly Sur Noye,"8, rue Du Docteur Binant"
+852,Groupama Airaines,"11, place Du 53Ème Rue.I.C.M.S"
+853,Groupama Albert,"7, rue Lamarck"
+854,Groupama Amiens Centre Ville,"2, rue Des Jacobins"
+855,Groupama Amiens Croix Rompue,"31, rue Alexandre Dumas"
+856,Groupama Amiens Jules Barni,"134, rue Jules Barni"
+857,Groupama Corbie,"26, place De La République"
+858,Agence Groupama Doullens,21 rue Des Boucheries
+859,Groupama - Agence Alban,5 Place Des Tilleuls
+860,Groupama Albi Jaurès,"48, place Jean Jaurès"
+861,Groupama Carmaux,"82, avenue Albert Thomas"
+862,Groupama Castres Lices,"21, boulevard Des Lices"
+863,Groupama Cordes sur Ciel,"2, avenue de la Grésigne"
+864,Groupama Gaillac,"57, avenue Gambetta"
+865,Groupama Graulhet,"5, Avenue Charles de Gaulle"
+866,Groupama - Agence Lacaune,11 Rue De La Republique
+867,Groupama Lavaur,"61, avenue Charles de Gaulle"
+868,Groupama Lisle Sur Tarn,"2, bis rue Saint-Louis"
+869,Groupama - Agence - Beaumont-de-Lomagne,4 Rue De Leglise
+870,Groupama Castelsarrasin,"67, rue De L'Egalité"
+871,Groupama - Agence Caussade,11 Boulevard Leonce Granier
+872,Groupama - Agence Caylus,21 Route De Villefranche
+873,Groupama Lavit de Lomagne,"3, place De L'Eglise"
+874,Groupama Moissac,"16, rue Sainte-Catherine"
+875,Groupama Montaigu,"48, rue Des Frères Quéméré"
+876,Groupama Coeur D'Oc,"170, Avenue MarcelUnal"
+877,Groupama Montauban Jean Moulin,"416, Avenue Jean Moulin"
+878,Groupama Montech,"2, avenue De La Mouscane"
+879,Groupama Negrepelisse,"64, rue Marcel Viguié"
+880,Groupama - Bureau Parisot,2 Rue De La Mairie
+881,Groupama - Agence St Antonin,46 Avenue Du Dr Benet
+882,Groupama Valence d'Agen,"14, boulevard Victor Guilhem"
+883,Groupama - Agence Verdun Sur Garonne,24 Place De Leperon
+884,Groupama Aups,"5, avenue Georges Clémenceau"
+885,Groupama Brignoles,"14, place Du 8 Mai 1945"
+886,Groupama - Agence Cogolin,Place Victor Hugo
+887,Groupama Cogolin,"15, rue Pasteur"
+888,Groupama Cuers,"8, avenue Foch"
+889,Groupama Draguignan,39-41 boulevard Général Leclerc
+890,Groupama Fayence,"41, avenue Robert Fabre"
+891,Groupama Fréjus,"266, avenue De Lattre De Tassigny"
+892,Groupama Hyères,"25, boulevard Gambetta"
+893,Groupama La Londe Les Maures,"50, chemin Du Pansard"
+894,Groupama Apt,"183, cours Lauze De Perret"
+895,Groupama - Agence Avignon,83 Route De Lyon
+896,Groupama Avignon Cap sud,"162, Avenue Pierre Sémard"
+897,Groupama Avignon République,"25, rue De La République"
+898,Groupama Bollene,"25, boulevard Victor Hugo"
+899,Groupama Camaret,"111, chemin De Piolenc"
+900,Groupama Carpentras,"20, avenue Du Mont Ventoux"
+901,Groupama Cavaillon,"125, avenue Paul Doumer"
+902,Groupama Courthezon,avenue Du Maréchal Leclerc
+903,Groupama Isle Sur Sorgue,"151, avenue De La Libération"
+904,Groupama Lagnes,"70, rue De La République"
+905,Groupama Aizenay,"25, rue Du Maréchal Foch"
+906,Groupama Beauvoir Sur Mer,"19, Grande Place"
+907,Groupama - Agence Montaigu - Boufféré,1 Rue RenÉ Descartes PÔle DactivitÉs La Bre
+908,Groupama Challans,"7, rue De Nantes"
+909,Groupama Chantonnay,"17, rue Nationale"
+910,Groupama Fontenay Le Comte,"3, rue Du Docteur Aude"
+911,Groupama La Mothe Achard,"7, place Des Halles"
+912,Groupama La Châtaigneraie,"6, rue St Jean"
+913,Groupama La Roche Centre,"13, Place de la Vendée"
+914,Groupama La Roche Gutenberg,"114, rue Gutenberg"
+915,Groupama - Agence - Availles-Limouzine,5 Pl De La Mairie
+916,Groupama Châtellerault,"28, rue De La Roseraie"
+917,Groupama Châtellerault Blossac,"10, boulevard Blossac"
+918,Groupama - Agence Chauvigny,35 Pl Du Marche
+919,Agence Groupama Civray,31 place Du Maréchal Leclerc
+920,Groupama - Agence Gencay,5 Place Du MarchÉ
+921,Groupama Jaunay Clan,"5, place De La Fontaine"
+922,Groupama - Agence Lisle Jourdain,12 Avenue Andre Cubaud
+923,Groupama - Agence Loudun,23 Bd Loches Et Matras
+924,Groupama - Agence Lusignan,Pl Du 11 Novembre
+925,Groupama Aixe sur Vienne,"34, rue Du Président Wilson"
+926,Groupama - Agence Ambazac,Pl Du 19 Mars 1962
+927,Groupama - Agence Bellac,Zone Commerciale Couchets
+928,Groupama - Agence Bessines - Bessines-sur-Gartempe,12bis Avenue Du 11 Novembre
+929,Groupama Couzeix,91-93 avenue De Limoges
+930,Groupama - Agence Eymoutiers,4 Pl Stalingrad
+931,Groupama Feytiat,"6, allée D'Italie"
+932,Groupama Limoges Arenes,"18, rue Des Arènes"
+933,Groupama Limoges Jourdan,"9, place Jourdan"
+934,Groupama - Agence Magnac Bourg,Lot. La Croix Bertrand - 6 Rue De La Liberte
+935,Groupama Bruyeres,"10, rue Du Cameroun"
+936,Groupama - Agence Charmes,6 Rue Maurice Barres
+937,Groupama Epinal,"10, rue Aubert"
+938,Groupama - Agence La Bresse,3 Place Du Champtel
+939,Groupama - Agence Le Thillot,2 Rue Jules Ferry
+940,Groupama - Agence Mirecourt,4 Rue Chanzy
+941,Groupama - Agence Monthureux Sur Saone,53 Place De La Republique
+942,Groupama - Agence Neufchateau,1 Rue Jules Ferry
+943,Groupama Rambervillers,"56, avenue Carnot"
+944,Groupama Remiremont,"118, rue Charles De Gaulle"
+945,Groupama St Die,"4, rue Pastourelle"
+946,Groupama - Agence Vittel,35 Place Charles De Gaulle
+947,Groupama Xertigny,"8, bis rue Du Canton De Firminy"
+948,Groupama Auxerre,"5, rue Paul Henri Spaak"
+949,Agence Groupama Avallon,12 place Vauban
+950,Groupama Chablis,"2, bis rue Du Serein"
+951,Groupama Joigny,"19, avenue Gambetta"
+952,Groupama Pont Sur Yonne,"7, rue De La Gare"
+953,Groupama Saint Florentin,"2, place Des Fontaines"
+954,Groupama Sens,"5, boulevard Du Mail"
+955,Groupama Toucy,"27, rue Paul Bert"
+956,Groupama Villeneuve L'Archeveque,"40, rue République"
+957,Groupama Belfort,"13, boulevard Sadi Carnot"
+958,Groupama Delle,"6, rue De Belfort"
+959,Groupama Arpajon,"83, Grande Rue"
+960,Groupama Corbeil Essonnes,"29, rue De Paris"
+961,Groupama Dourdan,"6, rue Emile Renault"
+962,Groupama Etampes,"21, place Notre Dame"
+963,Groupama Limours,"4, avenue De Chambord"
+964,Groupama Antony,"29, bis rue Auguste Mounie"
+965,Groupama Paris Boulogne,"204, boulevard Jean Jaurès"
+966,Groupama Nanterre,"4, Boulevard de Pesaro"
+967,Groupama Nanterre Campus,"2, boulevard De Pesaro"
+968,Groupama Le Raincy,"58, avenue De La Résistance"
+969,Groupama - Agence St Dionisy,Route De Nimes
+970,Groupama Creteil,"39, rue P. Brossolette"
+971,Groupama Cergy,"2, rue Des Chauffours"
+972,Groupama Groslay,"40, rue Du Général Leclerc"
+973,Groupama Luzarches,"6, place De L'Ange"
+974,Agence Groupama Magny En Vexin,6 place De La Halle
+975,Groupama Sannois,"51, boulevard Charles De Gaulle"
+976,Groupama Taverny,"36, avenue De La Gare"
+977,Groupama - Agence Grand Camp Abymes,Grand Camp La Rocade Nord
+978,Groupama - Agence Port Louis,Angle Des Rues Gambetta Et Mandela
+979,Groupama - Agence Fort De France,Avenue Maurice Bishop
+980,Groupama - Agence Francois,Mangot Vulcin - Quartier Place d'Armes
+981,Groupama - Agence Saint Esprit,8 Rue Nelson Mandela
+982,Groupama - Agence Saint Pierre,Rue Caylus
+983,Groupama - Ag Sainte Marie,ZA Belle étoile
+984,Groupama - Agence Le Port,18 Bis Rue Renaudiere De Vaux
+985,Groupama - Agence Le Tampon,3 Rue Du Pere Rognard
+986,Groupama - Agence Petite Ile,22 Rue Du Capitaine Suaccot
+987,Groupama - Agence St Andre,3 Centre Commercial
+988,Groupama - Agence St Benoit,18 Avenue Jean Jaures
+989,Groupama - Agence St Denis,46 Rue Labourdonnais
+990,Groupama - Agence Ste Clotilde,93 Bis Avenue Leconte De Lisle
+991,Groupama - Agence St Joseph,6 Rue Maury
+992,Groupama - Agence St Leu,205 Rue Du General Lambert
+993,Groupama - Agence St Louis,261 Avenue Principale
+994,Groupama - Agence St Paul,103 Rue Chausse Royale
+995,Groupama - Agence St Pierre,46 Boulevard Hubert Delisle

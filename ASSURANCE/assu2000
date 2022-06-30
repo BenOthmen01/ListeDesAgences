@@ -1,0 +1,314 @@
+,nom de l'entreprise,adresse
+0,Assu 2000 - Bourg-en-Bresse,15 rue Gambetta
+1,Assu 2000 - Oyonnax,40 rue Anatole France
+2,Assu 2000 - Chauny,20 rue de la Paix
+3,Assu 2000 - Saint-Quentin,12 rue Adrien Nordet
+4,Assu 2000 - Soissons,65 rue Saint-Martin
+5,Assu 2000 - Manosque,40 avenue Jean Giono
+6,Assu 2000 - Antibes,18 boulevard du President Wilson
+7,Assu 2000 - Cagnes-sur-Mer,83 avenue de la Gare
+8,ASSU 2000 Cannes Jaures,"7, Rue Jean Jaures"
+9,Assu 2000 - Cannes,37 avenue Francis Tonner
+10,Assu 2000 - Grasse,25 boulevard du Jeu de Ballon
+11,ASSU 2000 Nice Augustin,"52, Boulevard Rene Cassin"
+12,Assu 2000 - Nice,7 boulevard Carlone
+13,Assu 2000 - Nice Malaussena,7 avenue Malaussena
+14,Assu 2000 - Nice de la République,14 avenue de la République
+15,ASSU 2000 Aubenas,"17, Boulevard Pasteur"
+16,Assu 2000 - Charleville-Mézières,2 rue Saint Louis
+17,Assu 2000 - Pamiers,37 rue des Carmes
+18,Assu 2000 - Troyes,18 avenue du 1er Mai
+19,Assu 2000 - Troyes Jean Jaures,36 place Jean Jaures
+20,Assu 2000 - Carcassonne,29 boulevard Omer Sarraut
+21,Assu 2000 - Narbonne,24 boulevard Gambetta
+22,Assu 2000 Millau,21 avenue de la Republique
+23,Assu 2000 - Aix-en-Provence,6 boulevard de la République
+24,Assu 2000 Arles,16 rue Gambetta
+25,Assu 2000 - Aubagne,58 rue de la République
+26,Assu 2000 - Istres,2 boulevard de la République
+27,Assu 2000 - Marignane,88 avenue Jean Jaurès
+28,Assu 2000 - Marseille 3e,21 rue d'Orange
+29,ASSU 2000 Marseille Les 5 Avenues,"150, Boulevard De La Liberation"
+30,Assu 2000 - Marseille 5e,53 place Jean Jaurès
+31,Assu 2000 - Marseille 6e,8 boulevard Baille
+32,Assu 2000 - Marseille 13e,160 avenue de la Rose
+33,Assu 2000 - Caen,39 rue Saint Jean
+34,Assu 2000 - Caen Vaucelles,36 rue de Vaucelles
+35,Assu 2000 - Hérouville-Saint-Clair,Place du Café des Images
+36,Assu 2000 - Lisieux,60 avenue Victor Hugo
+37,Assu 2000 - Angoulême,32 rue de Montmoreau
+38,Assu 2000 - Rochefort,44 rue Audry de Puyravault
+39,Assu 2000 - Saintes,55 avenue Gambetta
+40,Assu 2000 - Vierzon,25 B avenue de la République
+41,Assu 2000 - Brive-la-Gaillarde,29 avenue de Paris
+42,Assu 2000 - Dijon,25 boulevard de Brosses
+43,Assu 2000 - Saint-Brieuc,2 avenue de la Libération
+44,Assu 2000 - Bergerac,51 rue Neuve d'aArgenson
+45,Assu 2000 - Périgueux,18 rue du Président Wilson
+46,Assu 2000 - Besançon,20 rue de Belfort
+47,Assu 2000 - Besançon de Dole,124 rue de Dole
+48,Assu 2000 - Montbéliard,15 place Denfert Rochereau
+49,Assu 2000 - Montélimar,28 avenue Jean Jaures
+50,Assu 2000 - Romans-sur-Isère,1 rue du Reservoir
+51,Assu 2000 - Valence,93 avenue Sadi Carnot
+52,Assu 2000 - Évreux,60 rue du Docteur Oursel
+53,Assu 2000 - Louviers,15 rue du Maréchal Foch
+54,Assu 2000 - Vernon,Rue des Tanneurs
+55,Assu 2000 - Chartres,16 rue du Grand Faubourg
+56,Assu 2000 - Dreux,5 boulevard Louis Terrier
+57,Assu 2000 - Brest,2 rue Saint-Martin
+58,Assu 2000 - Morlaix,4 place Emile Souvestre
+59,Assu 2000 - Quimper,2 rue Préfet Collignon
+60,Assu 2000 - Alès,7 place Saint-Jean
+61,Assu 2000 - Nîmes,8 boulevard Amiral Courbet
+62,Assu 2000 - Colomiers,4 allée d'Occitanie
+63,Assu 2000 - Muret,28 allée Niel
+64,Assu 2000 - Toulouse,32 avenue Etienne Billieres
+65,Assu 2000 - Toulouse  Bonnefoy,47 rue du Faubourg Bonnefoy
+66,Assu 2000 - Toulouse Mirail,61 allee de Bellefontaine
+67,Assu 2000 - Toulouse de Bayard,62 rue de Bayard
+68,Assu 2000 - Toulouse des Minimes,29 avenue des Minimes
+69,Assu 2000 - Toulouse du Maréchal Foch,7 place du Maréchal Foch
+70,Assu 2000 - Bordeaux,73 cours de la Marne
+71,Assu 2000 - Bordeaux Portal,76 cours Portal
+72,Assu 2000 - Bordeaux de Stalingrad,19 place de Stalingrad
+73,Assu 2000 - Libourne,49 allée Robert Boulin
+74,Assu 2000 - Mérignac,509 avenue de Verdun
+75,Assu 2000 - Villenave-d'Ornon,557 route de Toulouse
+76,Assu 2000 - Béziers,23 avenue Georges Clemenceau
+77,Assu 2000 - Béziers Garibaldi,5 place Garibaldi
+78,Assu 2000 - Lunel,279 boulevard Lafayette
+79,Assu 2000 - Montpellier,11 avenue Georges Clémenceau
+80,Assu 2000 - Sète,10 rue Honoré Euzet
+81,Assu 2000 - Rennes,172 rue de Fougeres
+82,Assu 2000 - Rennes Mauger,28 rue du Puits Mauger
+83,Assu 2000 - Joué-lès-Tours,77 rue Gamard
+84,Assu 2000 - Tours,117 avenue de Grammont
+85,Assu 2000 - Bourgoin-Jallieu,38 rue de la République
+86,Assu 2000 - Grenoble,15 place Gustave Rivet
+87,Assu 2000 - Grenoble Jean Jaurès,25 cours Jean Jaurès
+88,Assu 2000 - Vienne,13 rue de la Chaine
+89,Assu 2000 - Voiron,4 avenue Raymond Tézier
+90,Assu 2000 - Dole,9 rue de Besancon
+91,Assu 2000 - Dax,101 avenue Saint-Vincent de Paul
+92,Assu 2000 - Mont-de-Marsan,5 avenue Sadi Carnot
+93,Assu 2000 - Blois,3 rue Denis Papin
+94,Assu 2000 - Firminy,50 rue Jean Jaures
+95,Assu 2000 - Roanne,76 rue Jean Jaurès
+96,Assu 2000 - Saint-Chamond,1 rue Victor Hugo
+97,Assu 2000 - Saint-Étienne,36 rue Charles de Gaulle
+98,Assu 2000 - Saint-Étienne  du 11 Novembre,88 rue du 11 Novembre
+99,Assu 2000 - Nantes,146 boulevard Ernest Dalby
+100,Assu 2000 - Nantes Jean Bart,2 allée Jean Bart
+101,Assu 2000 - Rezé,1 place Pierre Semard
+102,Assu 2000 - Saint-Herblain,1 avenue des Thébaudières
+103,Assu 2000 - Saint-Nazaire,10 avenue de la République
+104,Assu 2000 - Montargis,4 rue Jean Jaurès
+105,Assu 2000 - Orléans,12 rue des Carmes
+106,Assu 2000 - Cahors,33 boulevard Gambetta
+107,Assu 2000 - Agen,173 boulevard de la République
+108,Assu 2000 - Villeneuve-sur-Lot,6 place de la Libération
+109,Assu 2000 - Angers,Place de l'Europe
+110,Assu 2000 - Angers,15 boulevard Foch
+111,Assu 2000 - Cholet,36 avenue des Calins
+112,Assu 2000 - Cherbourg-Octeville,7 B boulevard Schuman
+113,Assu 2000 - Saint-Lô,13 rue de Villedieu
+114,Assu 2000 - Châlons-en-Champagne,9 rue de la Marne
+115,Assu 2000 - Reims,119 avenue Jean Jaurès
+116,Assu 2000 - Reims Emile Zola,6 rue Emile Zola
+117,Assu 2000 - Chaumont,3 rue Victoire de la Marne
+118,Assu 2000 - Saint-Dizier,59 rue Gambetta
+119,Assu 2000 - Laval,7 rue du vieux Saint Louis
+120,Assu 2000 - Lunéville,1 rue Banaudon
+121,Assu 2000 - Nancy,24 rue Raymond Poincare
+122,Assu 2000 - Nancy Saint Dizier,56 rue Saint Dizier
+123,Assu 2000 - Toul,14 rue de la République
+124,Assu 2000 Vandoeuvre Les Nancy,1 avenue Jean Jaures
+125,ASSU 2000 Bar-le-Duc,"40, Boulevard de la Rochelle"
+126,Assu 2000 - Verdun,4 place Chevert
+127,Assu 2000 - Lorient,2 rue du Couëdic
+128,Assu 2000 - Vannes,32 rue Thiers
+129,Assu 2000 - Forbach,57 rue nationale
+130,Assu 2000 - Hagondange,83 rue de Metz
+131,Assu 2000 - Metz,16 rue Gambetta
+132,Assu 2000 - Saint-Avold,7 rue du général Hirschauer
+133,Assu 2000 - Sarreguemines,8 rue nationale
+134,Assu 2000 - Thionville,34 rue de Paris
+135,Assu 2000 - Armentières,12 rue de Dunkerque
+136,Assu 2000 - Cambrai,5 rue Pasteur
+137,Assu 2000 - Douai,129 rue Saint-Jacques
+138,Assu 2000 - Dunkerque,21 boulevard Sainte Barbe
+139,Assu 2000 - Lambersart,278 avenue de Dunkerque
+140,Assu 2000 - Lille,313 rue Leon Gambetta
+141,Assu 2000 - Lille Legrand,184 rue Pierre Legrand
+142,Assu 2000 - Loos,119 rue du Marechal Foch
+143,Assu 2000 - Maubeuge,12 avenue Jean Mabuse
+144,Assu 2000 - Roubaix,61 boulevard du Général Leclerc
+145,Assu 2000 - Tourcoing,2 rue de Lille
+146,Assu 2000 - Valenciennes,10 place du Hainaut
+147,ASSU 2000 Villeneuve-d'Ascq,"30, Place Salvador Allende"
+148,Assu 2000 - Wattrelos,56 rue Carnot
+149,Assu 2000 - Beauvais,43 rue Gambetta
+150,Assu 2000 - Compiègne,47 rue Saint Corneille
+151,Assu 2000 - Creil,67 rue de la République
+152,Assu 2000 - Arras,8 rue Saint-Aubert
+153,Assu 2000 - Béthune,47 rue Eugene Haynaut
+154,Assu 2000 - Boulogne-sur-Mer,58 rue Adolphe Thiers
+155,Assu 2000 - Bruay-la-Buissière,171 rue Henri Cadot
+156,Assu 2000 - Calais,65 boulevard Jacquard
+157,Assu 2000 - Carvin,52 rue Edouard Plachez
+158,Assu 2000 - Lens,2 rue Réné Lanoy
+159,Assu 2000 - Liévin,141 rue Jean Baptiste Defernez
+160,Assu 2000 - Saint-Omer,30 place du Maréchal Foch
+161,Assu 2000 - Clermont-Ferrand,37 boulevard Lafayette
+162,Assu 2000 - Clermont-Ferrand Saint Herem,23 rue Saint Herem
+163,Assu 2000 - Bayonne,48 rue Jules Labat
+164,Assu 2000 - Pau,16 rue Carnot
+165,Assu 2000 - Tarbes,3 rue Abbe Torne
+166,Assu 2000 - Perpignan,1 boulevard Aristide Briand
+167,Assu 2000 - Perpignan,46 boulevard Georges Clemenceau
+168,Assu 2000 - Haguenau,4a rue de la Moder
+169,Assu 2000 - Schiltigheim,82 route de Bischwiller
+170,ASSU 2000 Strasbourg Pierre,"51, Rue Du Faubourg De Pierre"
+171,Assu 2000 - 67200,209 route de Schirmeck
+172,Assu 2000 - Strasbourg,17 rue de la Brigade Alsace-Lorraine
+173,Assu 2000 - Colmar,29 rue des Bains
+174,Assu 2000 - Mulhouse,1 place de la République
+175,Assu 2000 - Mulhouse Aristide Briand,32 avenue Aristide Briand
+176,Assu 2000 Bron,133 avenue Franklin Roosevelt
+177,ASSU 2000 Décines-Charpieu,"3, Rue de la République"
+178,Assu 2000 - Givors,7 place Carnot
+179,Assu 2000 - Lyon 1e,156 boulevard de la Croix-Rousse
+180,Assu 2000 - Lyon 3e,27 cours Gambetta
+181,Assu 2000 - Lyon 8e,81 boulevard des Etats Unis
+182,Assu 2000 - Meyzieu,Place Burignat
+183,Assu 2000 - Oullins,66 grande rue
+184,Assu 2000 - Villepinte,Avenue de l'Europe
+185,Assu 2000 - Saint-Fons,1 rue Carnot
+186,Assu 2000 - Vesoul,53 rue Paul Morel
+187,Assu 2000 - Chalon-sur-Saône,24 boulevard de la République
+188,Assu 2000 - Le Creusot,20 rue du Maréchal Leclerc
+189,Assu 2000 - Mâcon,369 rue de Paris
+190,Assu 2000 - Le Mans,28 rue nationale
+191,Assu 2000 - Le Mans Jean Jaures,160 avenue Jean Jaures
+192,Assu 2000 - Chambéry,4 avenue des Ducs de Savoie
+193,Assu 2000 - Annecy,36 avenue de Genève
+194,ASSU 2000 Paris Stalingrad,"220, Rue La Fayette"
+195,Assu 2000 - Paris 11e,201 rue du Faubourg Saint Antoine
+196,Assu 2000 - Paris 13e de Tolbiac,62 rue de Tolbiac
+197,ASSU 2000 Paris Losserand,"116, Rue Raymond Losserand"
+198,Assu 2000 - Paris 15e,314 rue de Vaugirard
+199,Assu 2000 - Paris 18e,15 boulevard Ornano
+200,Assu 2000 - Paris 18e de Clichy,54 avenue de Clichy
+201,Assu 2000 - Paris 19e,161 rue de Belleville
+202,Assu 2000 - Paris 20e,28 rue d'Avron
+203,Assu 2000 - Paris 20e Belgrand,74 rue Belgrand
+204,Assu 2000 - Dieppe,2 place nationale
+205,Assu 2000 - Elbeuf,104 rue des Martyrs
+206,Assu 2000 - Fécamp,8 place Saint Etienne
+207,Assu 2000 - Le Havre,243 avenue du 8 Mai 1945
+208,Assu 2000 - Le Havre Republique,168 cours de la Republique
+209,Assu 2000 - Le Petit-Quevilly,78 avenue Jean Jaures
+210,Assu 2000 - Maromme,129 rue Martyrs de la Résistance
+211,Assu 2000 - Rouen,170 rue Saint Sever
+212,Assu 2000 - Rouen  Jeanne d'Arc,63 rue Jeanne d'Arc
+213,Assu 2000 - Chelles,12 avenue de la Résistance
+214,Assu 2000 - Coulommiers,6 place du Marché
+215,Assu 2000 - Fontainebleau,109 rue Grande
+216,Assu 2000 - Lagny-sur-Marne,35 rue du chemin de Fer
+217,Assu 2000 - Meaux,71 rue du Commandant Berge
+218,Assu 2000 - Melun,20 rue Saint Ambroise
+219,Assu 2000 - Montereau-Fault-Yonne,15 rue Jean Jaurès
+220,Assu 2000 - Pontault-Combault,13 avenue de la République
+221,Assu 2000 - Savigny-le-Temple,6 place Elisée Reclus
+222,Assu 2000 - Conflans-Sainte-Honorine,17 B rue Maurice Berteaux
+223,Assu 2000 - Élancourt,Place du Commerce
+224,Assu 2000 - Les Mureaux,117 rue Paul Doumer
+225,Assu 2000 - Mantes-la-Jolie,27 avenue de la République
+226,Assu 2000 - Poissy du Général de Gaulle,110 Q rue du Général de Gaulle
+227,Assu 2000 - Sartrouville,4 avenue de la République
+228,Assu 2000 - Trappes,42 rue Jean Jaures
+229,Assu 2000 - Versailles,5 rue des Chantiers
+230,Assu 2000 - Versailles,8 rue du Marechal Foch
+231,Assu 2000 - Niort,15 avenue de Verdun
+232,Assu 2000 - Amiens,3 rue du Général Leclerc
+233,Assu 2000 - Amiens de Noyon,17 rue de Noyon
+234,Assu 2000 - La Roche-sur-YonAlbi,15 avenue Général de Gaulle
+235,Assu 2000 - Castres,3 rue Sabatier
+236,Assu 2000 - Montauban,7 place du Maréchal Foch
+237,Assu 2000 - Brignoles,14 boulevard Saint Louis
+238,Assu 2000 - Draguignan,13 boulevard Georges Clemenceau
+239,Assu 2000 - Hyères plage,1 rue de Brest
+240,Assu 2000 - La Seyne-sur-Mer,61 avenue Leon Gambetta
+241,Assu 2000 - Saint-Raphaël,49 rue Gambetta
+242,Assu 2000 - Toulon,4 place Noel Blache
+243,Assu 2000 - Toulon du 15e Corps,246 avenue du 15e Corps
+244,Assu 2000 - Avignon,64 place de Saint Ruf
+245,Assu 2000 - Avignon Thiers,13 rue Thiers
+246,Assu 2000 - Carpentras,219 avenue du Mont Ventoux
+247,Assu 2000 - Cavaillon,71 cours Leon Gambetta
+248,Assu 2000 - Orange,84 avenue Charles de Gaulle
+249,Assu 2000 - La Roche-sur-Yon,101 boulevard Aristide Briand
+250,Assu 2000 - Châtellerault,2 boulevard de Blossac
+251,Assu 2000 - Poitiers,23 avenue Robert Schuman
+252,Assu 2000 - Limoges,90 avenue Garibaldi
+253,Assu 2000 - Épinal,1 place Augustin Beaudouin
+254,Assu 2000 - Saint-Dié-des-Vosges,20 B rue d'Alsace
+255,Assu 2000 - Auxerre,62 rue du Temple
+256,Assu 2000 - Sens,25 rue de la République
+257,Assu 2000 - Belfort,29 rue Adolphe Thiers
+258,Assu 2000 - Arpajon,105 grande rue
+259,Assu 2000 - Athis-Mons,60 avenue Francois Mitterrand
+260,ASSU 2000 Brétigny-sur-Orge,"10, Rue Anatole France"
+261,Assu 2000 - Corbeil-Essonnes,11 rue de Paris
+262,Assu 2000 - Étampes,3 place de Ll'Hôtel de Ville
+263,Assu 2000 - Évry,32 cours Blaise Pascal
+264,Assu 2000 - Juvisy-sur-Orge,26 rue Victor Hugo
+265,Assu 2000 - Les Ulis,Avenue de Berry
+266,Assu 2000 - Longjumeau,60 rue Président Francois Mitterrand
+267,Assu 2000 - Massy,70 rue Gabriel Peri
+268,Assu 2000 - Ris-Orangis,71 route de Grigny
+269,Assu 2000 - Sainte-Geneviève-des-Bois,1 avenue Jacques Duclos
+270,Assu 2000 - Savigny-sur-Orge,34 rue Henri Dunant
+271,Assu 2000 - Vigneux-sur-Seine,172 avenue Henri Barbusse
+272,Assu 2000 - Antony,32 avenue Aristide Briand
+273,Assu 2000 - Asnières-sur-Seine,1 boulevard Voltaire
+274,Assu 2000 - Boulogne-Billancourt,29 avenue du Général Leclerc
+275,ASSU 2000 Bourg-la-Reine,"84, Avenue du Général Leclerc"
+276,Assu 2000 - Clamart,33 avenue Jean Jaures
+277,Assu 2000 - Clichy,79 boulevard Jean Jaures
+278,Assu 2000 - Colombes,4 avenue Henri Barbusse
+279,Assu 2000 - Courbevoie,2 rue Victor Hugo
+280,Assu 2000 Fontenay-aux-Roses,111 rue Boucicaut
+281,Assu 2000 - Gennevilliers,169 avenue Gabriel Peri
+282,Assu 2000 - Aubervilliers,144 avenue de la République
+283,Assu 2000 - Aulnay-sous-Bois,19 rue Jacques Duclos
+284,Assu 2000 - Bobigny,175 avenue Jean Jaurès
+285,Assu 2000 - Bondy,87 rue Jules Guesde
+286,Assu 2000 - Drancy,74 avenue Henri Barbusse
+287,Assu 2000 - Épinay-sur-Seine,121 avenue Joffre
+288,Assu 2000 - Gagny,49 B avenue Jean Jaures
+289,Assu 2000 - La Courneuve,11 boulevard Pasteur
+290,Assu 2000 - Le Blanc-Mesnil,11 avenue Henri Barbusse
+291,Assu 2000 - Le Bourget,113 avenue de la Division Leclerc
+292,Assu 2000 - Les Lilas,125 rue de Paris
+293,Assu 2000 - Alfortville,43 rue du 14 Juillet
+294,Assu 2000 - Arcueil,67 avenue Aristide Briand
+295,Assu 2000 - Champigny-sur-Marne,29 rue Louis Talamoni
+296,Assu 2000 - Choisy-le-Roi,1 rue Jean Jaures
+297,Assu 2000 - Créteil,72 rue du Général Leclerc
+298,ASSU 2000 Fontenay-sous-Bois,"4 Bis, Avenue de Stalingrad"
+299,Assu 2000 - Ivry-sur-Seine,100 avenue Georges Gosnat
+300,Assu 2000 - Joinville-le-Pont,65 avenue du Général Gallieni
+301,Assu 2000 - Le Kremlin-Bicêtre,111 avenue de Fontainebleau
+302,Assu 2000 - Le Perreux-sur-Marne,39 boulevard d'Alsace Lorraine
+303,Assu 2000 - Argenteuil,77 avenue Gabriel Péri
+304,Assu 2000 - Cergy,10 grand place du Général de Gaulle
+305,Assu 2000 Cergy Saint Christophe,15 place du Marche
+306,Assu 2000 - Enghien-les-Bains,5 rue du Général de Gaulle
+307,Assu 2000 - Ermont,18 rue de Stalingrad
+308,Assu 2000 - Franconville,42 rue de Paris
+309,Assu 2000 - Goussainville,6 boulevard Roger Salengro
+310,Assu 2000 - Saint-Ouen-l'Aumône,43 rue du Général Leclerc
+311,Assu 2000 - Sarcelles,29 avenue du 8 Mai 1945
+312,Assu 2000 - Villiers-le-Bel,180 avenue Pierre Semard
